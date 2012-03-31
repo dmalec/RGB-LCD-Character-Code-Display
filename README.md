@@ -16,10 +16,9 @@ Dependencies
 
 Installing
 ----------
-1. Download the entire project
+1. Download the most recent ZIP of the project
 2. Extract the archive
-3. Rename the folder to RGB_LCD_Character_Code_Display
-4. Open the sketch in Arduino 
+3. Open the sketch in Arduino 
 
 Using
 -----
